@@ -27,11 +27,11 @@ I am a Computer Engineering graduate and a Cybersecurity Master's student at the
 * **CyberChallenge.IT National Finalist (2026):** Managed the A/D infrastructure and automated security tools, while actively identifying, exploiting, and patching web vulnerabilities during the national CTF.
 
 ### 🔥 Featured Projects
-* 🛡️ **[Industrial Security Honeypot](https://github.com/domedg)**
+* 🛡️ **[Industrial Security Honeypot](https://github.com/mimmocrazy/tpotce_MacOS)**
   *Adapted the T-Pot platform for macOS environments to analyze industrial network security. Conducted practical vulnerability testing via Modbus exploits using Conpot to evaluate OT (Operational Technology) defense strategies.*
-* 🔍 **[Social Exposure Analyzer (OSINT)](https://github.com/domedg)**
+* 🔍 **[Social Exposure Analyzer (OSINT)](https://github.com/mimmocrazy/Social-Exposure-Analyzer)**
   *Developed an automated Open Source Intelligence tool utilizing AI to gather, analyze, and validate public data to accurately quantify and assess the risk of social engineering attacks.*
-* ⚡ **[High-Performance ANN Search](https://github.com/domedg)**
+* ⚡ **[High-Performance ANN Search](https://github.com/mimmocrazy/K-Nearest-Neighbors)**
   *Implemented an Approximate Nearest Neighbor (ANN) search system using C and Assembly. Engineered low-level optimizations using SIMD Assembly instructions (SSE/AVX) to significantly accelerate complex distance calculations.*
 
 ### 💻 Tech Stack & Arsenal
@@ -48,7 +48,7 @@ I am a Computer Engineering graduate and a Cybersecurity Master's student at the
 
 <div align="center">
   <!-- Grafici con tema GitHub Dark per eliminare il rosa -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&title_color=FFFFFF&axes_color=FFFFFF&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimmocrazy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&title_color=FFFFFF&axes_color=FFFFFF&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=domedg&theme=github-dark&hide_border=true" width="98%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mimmocrazy&theme=github-dark&hide_border=true" width="98%" alt="GitHub Streak Stats" />
 </div>
