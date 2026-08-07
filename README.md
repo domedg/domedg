@@ -23,7 +23,7 @@
 ### 👤 About Me
 I am a Computer Engineering graduate and a Cybersecurity Master's student at the University of Calabria (UniCal). I have a deep passion for network analysis, traffic monitoring, and infrastructure defense. My focus lies in analyzing network protocols, deploying defensive environments, and proactively solving complex technical challenges within dedicated Network Security and SOC environments.
 
-### 🏆 Awards & Milestones
+### 🏆 Experiences
 * **CyberChallenge.IT National Finalist (2026):** Managed the A/D infrastructure and automated security tools, while actively identifying, exploiting, and patching web vulnerabilities during the national CTF.
 
 ### 🔥 Featured Projects
