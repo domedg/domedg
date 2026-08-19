@@ -40,9 +40,6 @@ I am a Computer Engineering graduate and a **Cybersecurity Master's student** at
 * **[command-not-found](https://github.com/mimmocrazy/command-not-found)** — Lightweight shell exit-127 helper with multi-package manager discovery, typo correction, and local validation *(Python, Bash/Zsh)*.
 * **[xcol](https://github.com/mimmocrazy/xcol)** — Fast column extraction & action runner for terminal pipelines; an intuitive alternative to `awk + xargs` *(Bash/Shell)*.
 
-#### ⚡ High-Performance & Low-Level Computing
-* **[High-Performance ANN Search](https://github.com/mimmocrazy/K-Nearest-Neighbors)** — Approximate Nearest Neighbor (ANN) search engine in C with vector quantization, lower-bound distance pruning, and SIMD (SSE/AVX) Assembly acceleration *(C, Assembly)*.
-
 ---
 
 ### 💻 Tech Stack & Arsenal
