@@ -60,5 +60,9 @@ I am a Computer Engineering graduate and a **Cybersecurity Master's student** at
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimmocrazy&theme=github_dark" width="65%" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mimmocrazy&theme=github_dark" width="32%" alt="Repos per Language" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mimmocrazy&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="98%" alt="GitHub Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimmocrazy/mimmocrazy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimmocrazy/mimmocrazy/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mimmocrazy/mimmocrazy/output/github-contribution-grid-snake-dark.svg" width="98%">
+  </picture>
 </div>
