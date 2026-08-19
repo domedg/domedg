@@ -46,7 +46,7 @@ I am a Computer Engineering graduate and a **Cybersecurity Master's student** at
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+| **Languages** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **Security & Forensics** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-2D2D2D?style=flat-square&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-39B54A?style=flat-square&logo=gnu&logoColor=white) |
 | **Infrastructure & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-24292E?style=flat-square&logo=tailscale&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
@@ -57,8 +57,8 @@ I am a Computer Engineering graduate and a **Cybersecurity Master's student** at
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimmocrazy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&title_color=FFFFFF&axes_color=FFFFFF&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimmocrazy&theme=github_dark" width="48%" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mimmocrazy&theme=github_dark" width="48%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mimmocrazy&theme=github_dark" width="48%" alt="Most Commit Language" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=mimmocrazy&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="98%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mimmocrazy&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="98%" alt="GitHub Streak Stats" />
 </div>
