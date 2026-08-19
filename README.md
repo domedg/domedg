@@ -4,10 +4,12 @@
   
   <h1>👋 Hi, I'm Domenico Del Giudice</h1>
   <p><b>Cybersecurity Engineer & A/D CTF Player | M.Sc. Student @ UniCal</b></p>
-  
+
+  <!--
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E_M.Sc.+Cybersecurity+Engineering+%40+UNICAL;%3E_CyberChallenge.IT+National+Finalist+2026;%3E_Network+Security+%26+Defensive+Infra;%3E_Systems%2C+Automation+%26+Low-Level+Code" alt="Typing SVG" />
   </a>
+  -->
 
   <br/>
 
