@@ -55,7 +55,8 @@ I am a Computer Engineering graduate and a **Cybersecurity Master's student** at
 ### 📊 System Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimmocrazy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&title_color=FFFFFF&axes_color=FFFFFF&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
+  <!--
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimmocrazy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&title_color=FFFFFF&axes_color=FFFFFF&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" /> -->
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimmocrazy&theme=github_dark" width="65%" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mimmocrazy&theme=github_dark" width="32%" alt="Repos per Language" />
