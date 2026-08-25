@@ -20,7 +20,7 @@
 ---
 
 ### 👤 About Me
-I am a Computer Engineering graduate and a **Cybersecurity Master's student** at the **University of Calabria (UniCal)**. My technical focus lies in **network security, traffic monitoring, offensive/defensive CTF tooling, and Linux systems automation**. I build resilient infrastructure, analyze protocols, and engineer high-performance low-level tools.
+I am a Computer Engineering graduate and a **Cybersecurity Master's student** at the **University of Calabria (UniCal)**. My technical focus lies in **network security, traffic monitoring, offensive/defensive CTF tooling, and Linux systems automation**.
 
 * 🏆 **CyberChallenge.IT 2026 National Finalist**: Managed A/D network infrastructure, designed automated defense/analysis toolchains, and patched live service vulnerabilities during the national CTF.
 
